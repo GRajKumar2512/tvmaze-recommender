@@ -1,0 +1,12 @@
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 2rem auto;
+}
+.heading__app {
+  text-align: center;
+}
+.list__cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
